@@ -1,0 +1,8 @@
+# used
+stem
+requests
+PySocks
+
+# not needed anymore
+# selenium
+# tbselenium
